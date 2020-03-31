@@ -1,6 +1,6 @@
 # Write your solution here
 
-puts Time.now
+puts Time.now.to_i
 
 # if Time.now % 2 == 0
 #   puts "Even!"
